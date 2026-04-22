@@ -1,0 +1,7 @@
+* xref:documentation:onecx-document:index.adoc[Document]
++
+include::documentation:onecx-document-ui:partial$nav.adoc[]
++
+include::documentation:onecx-document-bff:partial$nav.adoc[]
++
+include::documentation:onecx-document-svc:partial$nav.adoc[]
