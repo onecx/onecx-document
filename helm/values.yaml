@@ -8,7 +8,7 @@ product:
     data:
       description: "Manage Documents"
       imageUrl: ""
-      iconName: file
+      iconName: "file-pdf"
       displayName: "OneCX Document"
       basePath: /document
       provider: "OneCX Team"
