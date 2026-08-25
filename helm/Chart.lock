@@ -7,9 +7,9 @@ dependencies:
   version: 0.0.0-rc.35
 - name: onecx-document-bff
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.31
+  version: 0.0.0-rc.32
 - name: onecx-document-ui
   repository: oci://ghcr.io/onecx/charts
   version: 0.0.0-rc.39
-digest: sha256:69f7d1bd51f9d502832bfbe6a10c2983c5d72a7a4c719b4933b54459f20cc4ae
-generated: "2026-08-25T09:46:37.273572915Z"
+digest: sha256:0705ed2276a9ed78bffea4b94b6331c0e5f2fed888ab006911e5f918a2e94f6b
+generated: "2026-08-25T13:23:53.922960832Z"
